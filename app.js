@@ -17189,7 +17189,7 @@ for (let i = 5 + colorCount * 3; i < str.length; i++) { // Load the bit-packed i
 const byte = decodeByte(str[i])
 bytes.push(byte)
 }
-const bits = Math.ceil(Math.log2(colorCount))
+const bits = colorCount > 1 ? Math.ceil(Math.log2(colorCount)) : 1;
 const bitMask = (1 << bits) - 1
 let filledBits = 8
 let byte = bytes.shift()
