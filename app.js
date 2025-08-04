@@ -17213,6 +17213,13 @@ pixels[pixi + 0] = colors[num][0]
 pixels[pixi + 1] = colors[num][1]
 pixels[pixi + 2] = colors[num][2]
 pixels[pixi + 3] = colors[num][3]
+} else {
+  pixels[pixi + 0] = 0
+  pixels[pixi + 1] = 0
+  pixels[pixi + 2] = 0
+  pixels[pixi + 3] = 0
+  console.warn("Geçersiz renk indeksi:", num);
+}
 pixi += 4
 }
 return pixels
