@@ -6285,16 +6285,16 @@ let bigArray = win.bigArray || new Float32Array(600000)
 win.bigArray = bigArray
 // Callback functions for all the screens; will define them further down the page
 let drawScreens = {
-"ana menü": () => {},
-"ayarlar": () => {},
-"oyna": () => {},
-"duraklat": () => {},
-"oluşturma menüsü": () => {},
-"envanter": () => {},
-"çok oyunculu menü": () => {},
-"yakında menüsü": () => {},
-"yükle/kaydet menüsü": () => {},
-"pazar yeri": () => {},
+"main menu": () => {},
+"options": () => {},
+"play": () => {},
+"pause": () => {},
+"creation menu": () => {},
+"inventory": () => {},
+"multiplayer menu": () => {},
+"comingsoon menu": () => {},
+"loadsave menu": () => {},
+"marketplace": () => {},
 }
 let html = {
 pause: {
