@@ -6116,13 +6116,13 @@ experienceBar:[
 "4LZ2nZpoWkcBbg+dPUe5OtTZdZ6Kmt5RhdsuNKsUqhcxuaQ3NWr65RZ85eq1uu5uXc/zlF+/wRpvoltt6u07Wn1IIxi13r13X1UfPMSPHj95qj97/oLQtXvSXxKisD9+VdIrNiAkl2JZJq8bkGL8e1ZRF0L5FL15S1XFT9E7RMRCyeXAENI+hdC+0vdIpC6QqrJCCAlA4PV+gNT5o1MGnWUyERXDsPhTL5VRD8AOGVHAOEc2+UyUauDH9i8i6ev7+g16cr//+Cn9+m33Y/DnL6LmbBlAxC5EER/NdiS0kdgZcaKB4gdmkTdRZCLSaJImN+AEzEQL/S5CNPvW/46FhdeAlBPMw4gFPnYEgtHP/QMLi7iU40xIawAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0xMC0wOVQxOTo1MDowOCswMDowMPuKPhEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMTAtMDlUMTk6NTA6MDgrMDA6MDCK14atAAAAAElFTkSuQmCC"
 //splitting it because it is too long
 ].join(""),
-generic: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_Lqf26sIi6Q5t76JgZ_ZhP0DEHAr7uX3D_Y52nNK-VpJG1fPHnljNxOLJ8y-66sHdpG94H3JhNGZ__j_SOvOen9vN-YbILktRWYOQN1KQuGLs8n1NMQYIZSfpHYn3bTcAJQCjSKyAWhOtgj7MDw2ChWXId-v6onFGZKGzMt_VM7BoX43wwcOAwpYwPk/s1600/ZmCB-generic.png",
-explode: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho5PKNwZG5Jp370W7Mg91uU1FAw9HugQnOuZsOkuwMJ8ixiuJGx56T4B2j3pX-GTVeV3mlU5vgQPBbfx8gbFvGU0WpR0b5KMu-mJ0OuvrbZ6KZFvK-sRmNsvD9OKwHyq__ZzCqn8OCkGx2NN3VGJD4LELFe-g5QQTTmof722c__3J3Y_vVYmoImaCB8Bo/s1600/hkzg-explode.png",
-experienceOrb:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT-J0WQXmJC3pEbqz2P4mSuYoIBJ2vEZf8Jll9HJURboY2M_RpSuytxjGz6Es7ITsy_SR7hVYwd2mZA4dj8AuHzr2YYiBosNzZ7HLUpXa6aIToVTUgxUHaX_07DJrUp5u3ijweMLP_SU26NcBsTrUYjNz2looUAuOBI-a0YCgwZUqG9hPRKyyFixv3QUM/s1600/QOw6-experience_orb.png",
-freezeEffect: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsgoYqHsLGRMZZRv2BsJ3ODhCz968rFhVaFFVb0GaBK7btuThl50SkAI9MJ3XKFrkblFC4uqxtANj0IHqbKpFPQcGuxwnRg9CjvJu1LJS_9J6t4pFI7F4E6no9Kh8BnkjPASIPzqhJ9cuo-Zmum2VaOSQjA9AuiDKFoTTaLnHwbEUwC_DHHvcsNKRr31o/s256/Rfht-freeze_effect.png",
-spyglassScope:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Yn3q7UR45sPnDezDzVzWHmtLItAbRWx8VYA8umP4K6ZgnkyrBg9In-7hOYUX_XPYaCbvVVPgMiWlZnnlMUgpOO2WG3EZHbWyjLILSG1En5x7T4HljWGAMZB2drkekASMSYU5YZ3QDQb-KhovUoWqfk66sq5gjVsnu9WH7TNaTMctCtptpMdXfgOXY0U/s256/VbCu-spyglass_scope.png",
-minecraft: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr2QkdFLCwGphZ-edn5i5li-1_C2uP3P1U1ecm-qzKRl1T6nBVhOHWc6HPX0YdQue032OwoaDWDkZZMXrtyWUZ1RXNFPhMPhJa1G2GblHaEAcLdOrkXu3ZujvtP3okPZFCcUekovNbVfqzzbKzwIl4VRIEOehDNLzRkptgPAjY2Vh6Nlhy8LSkCwIR7u0/s400/SALv-minecraft.png",
-panorama: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVvl9YtR0UbjxnrZWwhRIgq5AABIO9H4sLGGDhkTzvtV90hO9Tuenm2z-wDqjrGzLXrB5Mu0N4tFME5CcKbIL5CrnDvCJfvp1YPU3q9LdQOER5Qb91xZh-YfvJUaLZRg2ZiZBTvlZKRmdCCFceMrLBV_kX-ylwd0TShBgB1IRntV-jDaqds1YfEaATb60/s512/panorama_sample.jpg",
+generic: "https://raw.githubusercontent.com/webinttr/minecraft-js/refs/heads/main/ZmCB-generic.png",
+explode: "https://raw.githubusercontent.com/webinttr/minecraft-js/refs/heads/main/hkzg-explode.png",
+experienceOrb:"https://raw.githubusercontent.com/webinttr/minecraft-js/refs/heads/main/QOw6-experience_orb.png",
+freezeEffect: "https://raw.githubusercontent.com/webinttr/minecraft-js/refs/heads/main/Rfht-freeze_effect.png",
+spyglassScope:"https://raw.githubusercontent.com/webinttr/minecraft-js/refs/heads/main/VbCu-spyglass_scope.png",
+minecraft: "https://raw.githubusercontent.com/webinttr/minecraft-js/refs/heads/main/SALv-minecraft.png",
+panorama: "https://raw.githubusercontent.com/webinttr/minecraft-js/refs/heads/main/panorama_sample.jpg",
 }
 let crossOriginImages = ["generic","explode","experienceOrb","panorama"]
 for(var i in images){
