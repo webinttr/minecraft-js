@@ -17189,7 +17189,7 @@ for (let i = 5 + colorCount * 3; i < str.length; i++) { // Load the bit-packed i
 const byte = decodeByte(str[i])
 bytes.push(byte)
 }
-const bits = colorCount > 1 ? Math.ceil(Math.log2(colorCount)) : 1;
+const bits = Math.ceil(Math.log2(colorCount))
 const bitMask = (1 << bits) - 1
 let filledBits = 8
 let byte = bytes.shift()
@@ -17213,13 +17213,6 @@ pixels[pixi + 0] = colors[num][0]
 pixels[pixi + 1] = colors[num][1]
 pixels[pixi + 2] = colors[num][2]
 pixels[pixi + 3] = colors[num][3]
-} else {
-  pixels[pixi + 0] = 0
-  pixels[pixi + 1] = 0
-  pixels[pixi + 2] = 0
-  pixels[pixi + 3] = 0
-  console.warn("Geçersiz renk indeksi:", num);
-}
 pixi += 4
 }
 return pixels
