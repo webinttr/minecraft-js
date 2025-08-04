@@ -5868,8 +5868,8 @@ win.createDatabase = createDatabase
 win.deleteFromDB = deleteFromDB
 //globals
 //{
-let version = "Alpha 1.0.4"
-doc.title = "Minecraft "+version
+let version = "Online"
+doc.title = "Minecraft Oyna - "+version
 let normReach = 5
 let bigReach = 40
 let reach = normReach // Max distance player can place or break blocks
